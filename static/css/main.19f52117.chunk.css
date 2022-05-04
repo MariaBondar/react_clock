@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;align-items:center}.App__block{background-color:#00f;border:5px solid #000;border-radius:10px;padding:15px;width:500px}.App__clock{align-items:center}.App__buttons{display:flex;justify-content:center;padding-bottom:30px;grid-gap:20px;gap:20px}.App__button{height:100px;border-radius:50%}.Clock__name{font-size:50px;text-align:center}.Clock__time{font-size:70px;text-align:center}
+/*# sourceMappingURL=main.19f52117.chunk.css.map */
